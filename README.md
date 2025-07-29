@@ -6,7 +6,7 @@ Each lab includes source code, examples, and explanations where applicable. The 
 
 ---
 
-## 📑 Lab List
+## Lab List
 
 ### Lab 2 – Variables and Error Handling
 - [Link to Lab 2] -> [https://github.com/your-username/lab-02-variables](https://github.com/serbanamariei/Lab-2)
