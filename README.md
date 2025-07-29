@@ -9,7 +9,7 @@ Each lab includes source code, examples, and explanations where applicable. The 
 ## 📑 Lab List
 
 ### ✅ Lab 2 – Variables and Error Handling
-- [Link to Lab 2]([https://github.com/your-username/lab-02-variables](https://github.com/serbanamariei/Lab-2))
+- [Link to Lab 2][https://github.com/your-username/lab-02-variables](https://github.com/serbanamariei/Lab-2)
 
 ### ✅ Lab 3 – Conditionals and Loops
 - [Link to Lab 3]([https://github.com/your-username/lab-03-conditionals](https://github.com/serbanamariei/Lab-3))
