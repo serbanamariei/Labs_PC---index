@@ -48,5 +48,5 @@ Each lab includes source code, examples, and explanations where applicable. The 
 
 ## Notes
 
-- Each lab repository contains `.c` or/and `.h` and `makefile` source files and (if applicable) `README.md` explanations.
+- Each lab repository contains `.c` and `.h` and `makefile` source files and (if applicable) `README.md` explanations.
 - This index is meant for reference, review, or portfolio purposes.
